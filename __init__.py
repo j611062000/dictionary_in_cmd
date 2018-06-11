@@ -1,0 +1,2 @@
+from dic import sentence
+
